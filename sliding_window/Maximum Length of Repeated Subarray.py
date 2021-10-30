@@ -12,7 +12,7 @@ def using_strings(num1, num2):
     1. convert one of the array into string say num1
     2. maintain the longest substring
     3. if the substring did not match remove the 1st element of the maxstring
-    
+
     Runtime: 167 ms, faster than 96.95% of Python3 online submissions
     Memory Usage: 14.4 MB, less than 92.09% of Python3 online submissions
     '''
